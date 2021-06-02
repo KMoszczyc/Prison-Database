@@ -24,3 +24,13 @@ Prison Database Model with example SQL queries, MySQL and python script to fill 
 |2714|LUIGI   |DEBOSE	|1979-05-08	|2025-01-17|	42|	1|27|1324|
 |4374|PARKER	 |STRAHAN	|1979-12-04	|2029-12-12|	41|	7|1	|3114|
 |3653|LEWIS	 |DEPALMA	|1973-10-30	|2012-10-03|	38|	1|6	|Released|
+
+
+#### Prisoner's crimes
+|Crime|Count|
+|----|----|
+|Prostitution|	203|
+|Identity Theft|	195|
+|Burglary|	181|
+|Credit / Debit Card Fraud|	181|
+|Attempt|	180|
