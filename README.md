@@ -52,3 +52,13 @@ Prison Database Model with example SQL queries, MySQL and python script to fill 
 |7011	|KENT	|BRADT	|2021-06-02|	2021-06-09	|6|
 |8019	|NICOLAS|MCSHERRY	|2021-06-02	|2021-06-07|	4|
 |7548	|GENE	|ROBICHAUX	|2021-06-02	|2021-06-08|	5|
+
+
+#### Longest Current Sentence Per Block
+|BLOCK ID |Longest Sentence in Years|
+|-|-|
+|8	|62|
+|7	|60|
+|29|	59|
+|14	|57|
+|27|	56|
