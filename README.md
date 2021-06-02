@@ -34,3 +34,12 @@ Prison Database Model with example SQL queries, MySQL and python script to fill 
 |Burglary|	181|
 |Credit / Debit Card Fraud|	181|
 |Attempt|	180|
+
+#### Job assignments per block
+|Block ID|Job|Prisoners assigned|
+|----|----|----|
+|1	|not assigned|	36|
+|1	|laundry	|16|
+|1|	workshop	|16|
+|1|	commisary|	9|
+|1|	kitchen	|8|
