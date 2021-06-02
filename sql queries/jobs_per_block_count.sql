@@ -7,4 +7,4 @@ JOIN cell ON cell_cell_id=cell_id
 JOIN block ON block_block_id=block_id
 WHERE release_date>now() 
 GROUP BY job_assignment,block_id
-ORDER BY block_id;
+ORDER BY block_id, Prisoners_Assigned DESC;
