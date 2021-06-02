@@ -7,12 +7,12 @@ Prison Database Model with example SQL queries with MySQL and python script to f
 #### Reprimand Count
 |9040|JUSTIN|EMANUEL|11|
 |----|------|-------|--|
-|9178|JAYSON|BEDELL|9|
-|----|------|------|-|
+|9178|JAYSON|BEDELL |9|
+|----|------|-------|--|
 |6713|PRINCE|CEPHAS|8|
-|----|------|-------|-|
+|----|------|-------|--|
 |9538	|LEON|HOUSER|8|
-|----|------|-----|-|
+|----|------|-------|--|
 |8467|COLE|BESSER|8|
-|----|------|----|-|
+|----|------|-------|--|
 
