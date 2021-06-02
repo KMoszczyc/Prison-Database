@@ -62,3 +62,12 @@ Prison Database Model with example SQL queries, MySQL and python script to fill 
 |29|	59|
 |14	|57|
 |27|	56|
+
+#### Prisoner Visits
+|ID|Name|Surname|Time in Minutes|Number of Visits|
+|-|-|-|-|
+|1442|ELMER|	HAMLET|	375	|10|
+|4925	|ARNOLD	|HAMMONTREE|	326|	7|
+|4132	|DENIS|	LAMPKIN	319|	|9|
+|1404	|MARCELLUS	|PILAND|	302|	7|
+|3608	|NORMAND|	BUTTS	297|	7|
