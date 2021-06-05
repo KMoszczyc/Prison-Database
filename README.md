@@ -1,6 +1,6 @@
 # Prison-Database
 ## About
-Prison Database Model with example SQL queries, MySQL and python script to fill the database with custom data.
+Prison Database Model with example SQL queries and python script to fill the database with custom data.
 
 ## Databse Model
 ![EER_Diagram](https://user-images.githubusercontent.com/61971053/120490176-7b99ae00-c3b8-11eb-9ceb-784ce5958b25.png)
